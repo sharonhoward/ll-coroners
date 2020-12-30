@@ -102,3 +102,6 @@ Citation
 Suggested citation:
 
 Sharon Howard, A Catalogue of Westminster Coroners' Inquests 1760-1799, version 2.0 (2018), based on data from *www.londonlives.org*.
+
+
+[![DOI](https://zenodo.org/badge/325594461.svg)](https://zenodo.org/badge/latestdoi/325594461)
